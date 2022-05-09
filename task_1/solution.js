@@ -29,7 +29,7 @@ function addInCartCountChange(value) {
     let newValue;
 
     newValue = oldValue;
-    newValue += '1';
+    newValue += "1";
 
 
     // Конец решения задания №1.2.
